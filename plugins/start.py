@@ -51,7 +51,7 @@ async def start(client, message):
         ],[
         InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://youtube.com/@TechlyticalBoyz')
         ],[
-        InlineKeyboardButton("📝Admin-TG", url='https://t.me/Suryabhaidonno1')
+        InlineKeyboardButton("📝Admin-TG", url='https://t.me/TheKunalSiingh')
         ]
         ])
     if START_PIC:
@@ -107,7 +107,7 @@ async def cb_handler(client, query: CallbackQuery):
         ],[
         InlineKeyboardButton("❤️ Subscribe YT ❤️", url='https://youtube.com/@TechlyticalBoyz')
         ],[
-        InlineKeyboardButton("📝Admin-TG", url='https://t.me/Suryabhaidonno1')
+        InlineKeyboardButton("📝Admin-TG", url='https://t.me/TheKunalSiingh')
         ]
         ])
             )
