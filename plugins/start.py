@@ -1,6 +1,6 @@
 """
 Apache License 2.0
-Copyright (c) 2022 @PYRO_BOTZ 
+Copyright (c) 2022  
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -149,7 +149,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://t.me/Suryabhaidonno1")
+               InlineKeyboardButton("❣️ Contact Admin ❣️", url="https://t.me/TheKunalSiingh")
                ],[
                InlineKeyboardButton("❤️‍🔥 How to make me ? ❤️‍🔥", url='https://youtube.com/@TechlyticalBoyz')
                ],[
